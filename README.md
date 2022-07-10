@@ -6,4 +6,4 @@ Doodle Jump is the final project of Micro-Processors and Assembly Language cours
 
 This project is a clone of doodle jump game which is implemeted on stm32f303 board.
 
-![](shematic.JPG)
+![](shematic.jpg)
